@@ -12,14 +12,14 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
 ### Open Express Server
 
 ```
 node server
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
 ```
