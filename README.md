@@ -1,4 +1,4 @@
-# vue-demo
+# vue-demo showcase
 
 ## Project setup
 
